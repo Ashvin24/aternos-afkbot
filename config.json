@@ -1,5 +1,5 @@
 {
-	"ip":"ironbat00.aternos.me:34330",
-	"port": "ironbat00.aternos.me",
-	"name": "Mystery2"
+	"ip":"YOUR_ATERNOS_SERVER_IP",
+	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"name": "BOT_NAME"
 }
